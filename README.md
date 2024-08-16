@@ -122,14 +122,22 @@
 <br><br>
 -->
 
-<h3 align="center">✍🏻 TIL</h3>
+<h3 align="center">✍🏻 Today I Learned</h3>
 <div style="display:flex; flex-direction:row;">
     
      
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=zzawang)](https://velog.io/@zzawang/posts)
 </div>
 
-<br>
+<br><br>
+
+<h3 align="center">🤝🏻 Let's Connect</h3>
+<p align="center">
+  <a href="https://velog.io/@zzawang"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" /></a>
+  <a href="mailto:hobinchoi0116@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/%ED%98%B8%EB%B9%88-%EC%B5%9C-a91721287/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
  
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:FFF2E5,100:E0FFF8&height=200&section=footer&text=📚%20Always%20Learning:%20Java%20|%20Spring%20|%20JavaScript%20|%20Node.js%20|%20Network%20%20&fontSize=18&fontColor=66CDAA&animation=twinkling&fontAlignY=65)
 
