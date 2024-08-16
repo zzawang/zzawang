@@ -47,24 +47,88 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:E0FFF8,100:FFF2E5&height=300&section=header&text=zzawang's%20Coding%20Universe✨&fontSize=50&fontColor=66CDAA&animation=twinkling&fontAlignY=40&desc=🌱%20Learning%20and%20Growing%20|%20💻%20Backend%20Developer&descSize=18&descAlignY=60&descAlign=50&descColor=66CDAA)
 
+
+<!--
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzawang&layout=compact&bg_color=FFF2E5&title_color=66CDAA&text_color=66CDAA&border_color=66CDAA)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+-->
+
+<br>
+
+안녕하세요 🙇🏻‍♀️ <br>
+자기주도적인 **백엔드 개발자**가 되기 위해 지속적으로 공부 중인 최호빈입니다 👩🏻‍💻
+
+
+<br><br>
+
+<h3 align="center">🎓 Education</h3>
+<div style="display:flex; flex-direction:row;">
+    
+**네이버 부스트캠프 웹・모바일 9기 멤버십** (2024.08 ~ ) <br>
+**네이버 부스트캠프 웹・모바일 9기 챌린지** (2024.07 ~ 2024.08) <br>
+**코드스쿼드 마스터즈 백엔드 과정** (2024.01 ~ 2024.08) <br>
+**한성대학교 컴퓨터공학부** (2020.03 ~ 2024.02) <br>
 </div>
 
+<br><br>
+
 <div align="center">
+
+### 🛠 Tech Stack
+
+#### 🌱 Currently Learning
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+</p>
+
+#### 💼 Experienced With
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+</div>
+
+<br><br>
+
+<!--
+<h3 align="center">🧪 Algorithm</h3>
+
+<div>
+    
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=)](https://solved.ac//)
+
+</div>
+
+<br><br>
+-->
+
+<h3 align="center">✍🏻 TIL</h3>
+<div style="display:flex; flex-direction:row;">
+    
+     
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=zzawang)](https://velog.io/@zzawang/posts)
+</div>
+
+<br>
  
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:FFF2E5,100:E0FFF8&height=200&section=footer&text=📚%20Always%20Learning:%20Java%20|%20Spring%20|%20JavaScript%20|%20Node.js%20|%20Network%20%20&fontSize=18&fontColor=66CDAA&animation=twinkling&fontAlignY=65)
 
 </div>
-
-
-<!--
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzawang&count_private=true&show_icons=true) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzawang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디/)
- 
- -->
