@@ -69,7 +69,7 @@
 <h3 align="center">🎓 Education</h3>
 <div style="display:flex; flex-direction:row;">
     
-**네이버 부스트캠프 웹・모바일 9기 멤버십** (2024.08 ~ ) <br>
+**네이버 부스트캠프 웹・모바일 9기 멤버십** (2024.08 ~ 2024.12) <br>
 **네이버 부스트캠프 웹・모바일 9기 챌린지** (2024.07 ~ 2024.08) <br>
 **코드스쿼드 마스터즈 백엔드 과정** (2024.01 ~ 2024.08) <br>
 **한성대학교 컴퓨터공학부** (2020.03 ~ 2024.02) <br>
@@ -87,6 +87,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
 </p>
 
 #### 💼 Experienced With
