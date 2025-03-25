@@ -45,7 +45,7 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:E0FFF8,100:FFF2E5&height=300&section=header&text=ZzaHub✨&fontSize=50&fontColor=66CDAA&animation=twinkling&fontAlignY=40&desc=🌱%20Learning%20and%20Growing%20|%20💻%20Backend%20Developer&descSize=18&descAlignY=60&descAlign=50&descColor=66CDAA)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:E0FFF8,100:FFF2E5&height=300&section=header&text=ZzaHub✨&fontSize=50&fontColor=66CDAA&animation=twinkling&fontAlignY=40)
 
 
 <!--
@@ -60,7 +60,6 @@
 안녕하세요 👋🏻 <br>
 자기주도적인 **백엔드 개발자**를 꿈꾸며 성장 중인 최호빈입니다. 👩🏻‍💻 <br><br>
 
-🐢 **기초부터 차근차근 쌓아가는** 견고한 학습을 추구합니다.<br>
 ✍🏻 문제해결 과정을 **문서화**하거나 **시각적으로 표현**하는 것을 잘합니다.<br>
 🏃🏻‍♀️ 느리지만 꾸준한 걸음으로 **개발 실력을 향상**시키고 있습니다.<br>
 
