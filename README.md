@@ -134,6 +134,6 @@
 </p>
 
  
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:FFF2E5,100:E0FFF8&height=200&section=footer&text=📚%20Always%20Learning:%20Java%20|%20Spring%20|%20JavaScript%20|%20Node.js%20|%20Network%20%20&fontSize=18&fontColor=66CDAA&animation=twinkling&fontAlignY=65)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:FFF2E5,100:E0FFF8&height=200&section=footer&fontColor=66CDAA&animation=twinkling&fontAlignY=65)
 
 </div>
