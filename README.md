@@ -126,7 +126,7 @@
 
 </div>
 
-<br><br>
+<br>
 -->
 
 <h3 align="center">✍🏻 Today I Learned</h3>
@@ -136,7 +136,7 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=zzawang)](https://velog.io/@zzawang/posts)
 </div>
 
-<br><br>
+<br>
 
  
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:FFF2E5,100:E0FFF8&height=150&section=footer&fontColor=66CDAA&animation=twinkling&fontAlignY=65)
