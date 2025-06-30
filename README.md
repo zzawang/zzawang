@@ -85,6 +85,7 @@
 
 <br><br>
 
+<!--
 <div align="center">
 
 ### 🛠 Tech Stack
@@ -113,8 +114,8 @@
 </p>
 
 </div>
+-->
 
-<br><br>
 
 <!--
 <h3 align="center">🧪 Algorithm</h3>
