@@ -45,7 +45,7 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:E0FFF8,100:FFF2E5&height=300&section=header&text=ZzaHub✨&fontSize=50&fontColor=66CDAA&animation=twinkling&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:E0FFF8,100:FFF2E5&height=200&section=header&text=ZzaHub✨&fontSize=50&fontColor=66CDAA&animation=twinkling&fontAlignY=40)
 
 
 <!--
@@ -63,14 +63,25 @@
 🏃🏻‍♀️ 느리지만 꾸준한 걸음으로 **개발 실력을 향상**시키고 있습니다.<br>
 -->
 
+<!--
 <h3 align="center">🎓 Education</h3>
 <div style="display:flex; flex-direction:row;">
+
     
 **네이버 부스트캠프 웹・모바일 9기 멤버십** (2024.08 ~ 2024.12) <br>
 **네이버 부스트캠프 웹・모바일 9기 챌린지** (2024.07 ~ 2024.08) <br>
 **코드스쿼드 마스터즈 백엔드 과정** (2024.01 ~ 2024.08) <br>
-<!--**한성대학교 컴퓨터공학부** (2020.03 ~ 2024.02) <br>-->
+<!--**한성대학교 컴퓨터공학부** (2020.03 ~ 2024.02) <br>
 </div>
+-->
+
+
+<h3 align="center">🤝🏻 Let's Connect</h3>
+<p align="center">
+  <a href="https://velog.io/@zzawang"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" /></a>
+  <a href="mailto:hobinchoi0116@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/%ED%98%B8%EB%B9%88-%EC%B5%9C-a91721287/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 <br><br>
 
@@ -126,14 +137,7 @@
 
 <br><br>
 
-<h3 align="center">🤝🏻 Let's Connect</h3>
-<p align="center">
-  <a href="https://velog.io/@zzawang"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" /></a>
-  <a href="mailto:hobinchoi0116@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/%ED%98%B8%EB%B9%88-%EC%B5%9C-a91721287/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
  
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:FFF2E5,100:E0FFF8&height=200&section=footer&fontColor=66CDAA&animation=twinkling&fontAlignY=65)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:FFF2E5,100:E0FFF8&height=150&section=footer&fontColor=66CDAA&animation=twinkling&fontAlignY=65)
 
 </div>
