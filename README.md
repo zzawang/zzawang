@@ -1,3 +1,4 @@
+<br>
 <!-- 핑크
 <div align="center">
 
@@ -42,11 +43,11 @@
 
 -->
 
-
+<!-- 
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:E0FFF8,100:FFF2E5&height=200&section=header&text=ZzaHub✨&fontSize=50&fontColor=66CDAA&animation=twinkling&fontAlignY=40)
-
+-->
 
 <!--
 <div align="center">
@@ -75,7 +76,7 @@
 </div>
 -->
 
-
+<div align="center">
 <h3 align="center">🤝🏻 Let's Connect</h3>
 <p align="center">
   <a href="https://velog.io/@zzawang"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" /></a>
@@ -138,7 +139,7 @@
 
 <br>
 
- 
+<!--
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:FFF2E5,100:E0FFF8&height=150&section=footer&fontColor=66CDAA&animation=twinkling&fontAlignY=65)
-
+-->
 </div>
